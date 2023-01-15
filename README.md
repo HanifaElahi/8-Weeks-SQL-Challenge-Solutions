@@ -20,7 +20,7 @@ Thanks @DataWithDanny for the excellent SQL case studies! 👋🏻
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
 ## [Danny's Diners Case Study Description](https://8weeksqlchallenge.com/case-study-1/) 
-## [Danny's Diners Case Study Solution](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%201%20-%20Danny's%20Diners/Danny's%20Diner%20Solution.md) 
+## [Danny's Diners Case Study Solution](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%201%20-%20Danny's%20Diners/README.md) 
 
 ### Problem Statement
 
