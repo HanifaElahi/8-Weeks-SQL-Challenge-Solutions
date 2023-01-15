@@ -9,7 +9,7 @@
 
 ## Solution
 
-- [Dataset Directory](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/tree/main/Case%20Study%201%20-%20Danny's%20Diners/data).
+- [Dataset Directory](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/tree/main/Case%20Study%201%20-%20Danny's%20Diners/data)
 - [SQLite Database](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%201%20-%20Danny's%20Diners/data/DannysDiner.sqlite)
 - [Danny's Diners Database Creation](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%201%20-%20Danny's%20Diners/CASE%20STUDY%201%20-%20Danny's%20Diners%20Database%20Creation.ipynb)
 - [Danny's Diner Solution](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%201%20-%20Danny's%20Diners/CASE%20STUDY%201%20-%20Danny's%20Diner%20Solution.ipynb)
