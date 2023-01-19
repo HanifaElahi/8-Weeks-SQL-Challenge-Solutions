@@ -1,4 +1,4 @@
-# 🍜 Case Study # 1: Danny's Diner
+# 🍜 Case Study 1: Danny's Diner
 
 <p>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-018bff.svg?&style=for-the-badge&logo=sql&logoColor=white"></a>
