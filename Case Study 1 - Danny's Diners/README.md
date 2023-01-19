@@ -7,6 +7,14 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FF6600.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
 </p>
 
+## Problem Statement
+
+Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
+
+## Entity Relationship Diagram
+
+![image](https://user-images.githubusercontent.com/81607668/127271130-dca9aedd-4ca9-4ed8-b6ec-1e1920dca4a8.png)
+
 ## Solution
 
 - [Dataset Directory](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/tree/main/Case%20Study%201%20-%20Danny's%20Diners/data)
