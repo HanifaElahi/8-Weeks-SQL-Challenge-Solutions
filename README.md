@@ -32,12 +32,12 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ***
 
-## [Case Study 2: Pizza Runner]()
+## [Case Study 2: Pizza Runner](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/tree/main/Case%20Study%202%20-%20Pizza%20Runner)
 
 <img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
 
 ## [Pizza Runner Case Study Description](https://8weeksqlchallenge.com/case-study-2/) 
-## [Pizza Runner Case Study Solution](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%201%20-%20Danny's%20Diners/README.md) 
+## [Pizza Runner Case Study Solution](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/README.md) 
 
 ### Problem Statement
 
