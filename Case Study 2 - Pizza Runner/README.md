@@ -21,7 +21,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 ## Solution
 
 - [Dataset Directory](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/tree/main/Case%20Study%202%20-%20Pizza%20Runner/data)
-- [SqLite Database](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/data/PizzaRunner.sqlite)
+- [SQLite Database](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/data/PizzaRunner.sqlite)
 - [Pizza Runner Database Creation](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/CASE%20STUDY%202%20-%20Pizza%20Runner%20Database%20Creation.ipynb)
 - [Data Cleaning & Transformation](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.md)
 - [A. Pizza Metrics](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/edit/main/Case%20Study%202%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
