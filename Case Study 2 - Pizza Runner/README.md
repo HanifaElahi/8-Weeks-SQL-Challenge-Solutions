@@ -20,19 +20,19 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ## Solution
 
-- [Dataset Directory]().
-- [SqLite Database]()
-- [Pizza Runner Database Creation]()
-- [Data Cleaning & Transformation]()
-- [A. Pizza Metrics]()
-- [B. Runner and Customer Experience]()
+- [Dataset Directory](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/tree/main/Case%20Study%202%20-%20Pizza%20Runner/data)
+- [SqLite Database](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/data/PizzaRunner.sqlite)
+- [Pizza Runner Database Creation](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/CASE%20STUDY%202%20-%20Pizza%20Runner%20Database%20Creation.ipynb)
+- [Data Cleaning & Transformation](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.md)
+- [A. Pizza Metrics](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/edit/main/Case%20Study%202%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
+- [B. Runner and Customer Experience](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/B.%20Runner%20%26%20Customer%20Experience.md)
 - [C. Ingredient Optimisation]()
 - [D. Pricing and Ratings]()
 - [E. Bonus Questions]()
 
 ## Case Study Questions
 
-### [A. Pizza Metrics]()
+### [A. Pizza Metrics](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Case%20Study%20Solution/A.%20Pizza%20Matrics%20Solution.ipynb)
 
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
@@ -45,7 +45,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week?
 
-### [B. Runner and Customer Experience]()
+### [B. Runner and Customer Experience](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Case%20Study%20Solution/B.%20Runner%20and%20Customer%20Experience.ipynb)
 
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
