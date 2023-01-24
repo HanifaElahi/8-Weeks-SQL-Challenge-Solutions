@@ -80,12 +80,4 @@ SET
     END);
 ````
 
-After that alterd columns `pickup_time`, `distance` and `duration` to the correct data type.
-
-````sql
-ALTER TABLE runner_orders_temp
-ALTER COLUMN pickup_time DATETIME,
-ALTER COLUMN distance FLOAT,
-ALTER COLUMN duration INT;
-````
 ***
