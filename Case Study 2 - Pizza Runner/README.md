@@ -26,9 +26,8 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 - [Data Cleaning & Transformation](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.md)
 - [A. Pizza Metrics](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/edit/main/Case%20Study%202%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
 - [B. Runner and Customer Experience](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/B.%20Runner%20%26%20Customer%20Experience.md)
-- [C. Ingredient Optimisation]()
-- [D. Pricing and Ratings]()
-- [E. Bonus Questions]()
+- [C. Ingredient Optimisation](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/Case%20Study%20Solution/C.%20Ingredient%20Optimisation.ipynb)
+
 
 ## Case Study Questions
 
@@ -55,7 +54,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
 7. What is the successful delivery percentage for each runner?
 
-### [C. Ingredient Optimisation]()
+### [C. Ingredient Optimisation](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%202%20-%20Pizza%20Runner/C.%20Ingredient%20Optimisation.md)
 
 1. What are the standard ingredients for each pizza?
 2. What was the most commonly added extra?
