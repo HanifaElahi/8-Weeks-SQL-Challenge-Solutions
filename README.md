@@ -8,7 +8,7 @@ Thanks @DataWithDanny for the excellent SQL case studies! 👋🏻
 ---
 - [Case Study 1: Danny's Diner](#case-study-1-dannys-diner)
 - [Case Study 2: Pizza Runner](#case-study-2-pizza-runner)
-- [Case Study #3: Foodie-Fi](#case-study-3-foodie-fi)
+- [Case Study 3: Foodie-Fi](#case-study-3-foodie-fi)
 - [Case Study #4: Data Bank](#case-study-4-data-bank)
 - [Case Study #5: Data Mart](#case-study-5-data-mart)
 - [Case Study #6: Clique Bait](#case-study-6-clique-bait)
@@ -49,4 +49,25 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ![image](https://user-images.githubusercontent.com/81607668/127271531-0b4da8c7-8b24-4a14-9093-0795c4fa037e.png)
   
+***
+
+## [Case Study 3: Foodie Fi]()
+
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/3.png" alt="Image" width="500" height="520">
+
+## [Foodie Fi Case Study Description](https://8weeksqlchallenge.com/case-study-3/) 
+## [Foodie Fi Case Study Solution]() 
+
+### Problem Statement
+
+Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
+
+Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!
+
+Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
+
+### Entity Relationship Diagram
+
+![image](https://8weeksqlchallenge.com/images/case-study-3-erd.png)
+
 ***
