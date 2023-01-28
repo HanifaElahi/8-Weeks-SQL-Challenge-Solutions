@@ -56,7 +56,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/3.png" alt="Image" width="500" height="520">
 
 ## [Foodie Fi Case Study Description](https://8weeksqlchallenge.com/case-study-3/) 
-## [Foodie Fi Case Study Solution]() 
+## [Foodie Fi Case Study Solution](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/tree/main/Case%20Study%203%20-%20Foodie%20Fi) 
 
 ### Problem Statement
 
