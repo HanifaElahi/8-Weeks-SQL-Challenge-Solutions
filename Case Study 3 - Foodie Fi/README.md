@@ -21,23 +21,21 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 
 ## Solution
 
-- [Dataset Directory]()
-- [SqLite Database]()
-- [Foodie Fi Database Creation]()
-- [A. Customer Journey]()
-- [B. Data Analysis Questions]()
-- [C. Challenge Payment Question]()
-- [D. Outside The Box Questions]()
+- [Dataset Directory](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/tree/main/Case%20Study%203%20-%20Foodie%20Fi/data)
+- [SqLite Database](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%203%20-%20Foodie%20Fi/data/FoodieFi.sqlite)
+- [Foodie Fi Database Creation](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%203%20-%20Foodie%20Fi/CASE%20STUDY%203%20-%20Foodie%20Fi%20Database%20Creation.ipynb)
+- [A. Customer Journey](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%203%20-%20Foodie%20Fi/A.%20Customer%20Journey.md)
+- [B. Data Analysis Questions](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%203%20-%20Foodie%20Fi/B.%20Data%20Analysis%20Questions.md)
 
 ## Case Study Questions
 
-### [A. Customer Journey]()
+### [A. Customer Journey](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%203%20-%20Foodie%20Fi/Case%20Study%20Solution/A.%20Customer%20Journey%20Solution.ipynb)
 
 Based off the 8 sample customers provided in the sample from the subscriptions table, write a brief description about each customer’s onboarding journey.
 
 Try to keep it as short as possible - you may also want to run some sort of join to make your explanations a bit easier!
 
-### [B. Data Analysis Questions]()
+### [B. Data Analysis Questions](https://github.com/HanifaElahi/8-Weeks-SQL-Challenge-Solutions/blob/main/Case%20Study%203%20-%20Foodie%20Fi/Case%20Study%20Solution/B.%20Data%20Analysis%20Questions.ipynb)
 
 1. How many customers has Foodie-Fi ever had?
 2. What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
