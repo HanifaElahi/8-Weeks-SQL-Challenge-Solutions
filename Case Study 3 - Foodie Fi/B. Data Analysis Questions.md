@@ -18,7 +18,8 @@
 ````sql
 
 SELECT 
-    COUNT(DISTINCT(customer_id)) AS num_customers FROM subscriptions;
+    COUNT(DISTINCT(customer_id)) AS num_customers 
+FROM subscriptions;
 
 ````
 
@@ -50,6 +51,7 @@ ORDER BY Month;
 #### Answer:
 
 | Month | trial_subscriptions |
+| ----- | ------------------- |
 |   01  |         88          |
 |   02  |         68          |
 |   03  |         94          |
